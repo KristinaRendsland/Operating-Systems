@@ -1,0 +1,4 @@
+One operating system function is managing the computer's resources.
+This includes its memory, file storage, central processing unit, disc drives & network connections. 
+Any device that is plugged into the computer system or inside of the computer is managed by the operating system.
+When the computer gets turned on, the operating system becomes active and takes control of these resources.
